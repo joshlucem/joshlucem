@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Community](https://img.shields.io/badge/community-discord-2f3136?logo=discord&logoColor=white)](https://discord.gg/DHfdnWUFvY)
-[![Nullith Studios](https://img.shields.io/badge/Nullith-forum.nullith.lat-3c8527)](https://forum.nullith.lat)
+[![Community](https://img.shields.io/badge/Community-discord-2f3136?logo=discord&logoColor=white)](https://discord.gg/DHfdnWUFvY)
+[![Nullith Studios](https://img.shields.io/badge/Nullith_Studios-forum.nullith.lat-3c8527)](https://forum.nullith.lat)
 
 ---
 
