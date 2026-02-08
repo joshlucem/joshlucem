@@ -9,7 +9,7 @@ What I do here is a hobby, but a genuinely rewarding and fun one.
 I might not be as polished as other developers, but I try to do everything with care and genuine interest 🤟
 
 [![Discord – Plugin Support](https://img.shields.io/badge/Discord-Plugin_support_server-5865F2?logo=discord&logoColor=white)](https://discord.gg/DHfdnWUFvY)
-[![Minecraft Community](https://img.shields.io/badge/Minecraft-Community_server_(Spanish)-5865F2?logo=discord&logoColor=white)](https://discord.gg/DHfdnWUFvY)
+[![Minecraft Community](https://img.shields.io/badge/Minecraft-Community_server_(Spanish)-5865F2?logo=discord&logoColor=white)](https://discord.gg/fw9S5FubjP)
 
 [![Nullith Studios](https://img.shields.io/badge/Nullith_Studios-Forum-E71D29?logo=undertale&logoColor=white)](https://forum.nullith.lat)
 
