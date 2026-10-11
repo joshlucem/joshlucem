@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Josh Lucem, plugins for Minecraft">
+<style>
+  .t{font-family:'Outfit','Segoe UI',Helvetica,Arial,sans-serif}
+  .s{font-family:Georgia,'Times New Roman',serif;font-style:italic}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes spin2{to{transform:rotate(-360deg)}}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .o1{transform-origin:960px 150px;animation:spin 26s linear infinite}
+  .o2{transform-origin:960px 150px;animation:spin2 38s linear infinite}
+  .o3{transform-origin:960px 150px;animation:spin 17s linear infinite}
+  .r{animation:rise .9s ease both} .r2{animation:rise .9s .25s ease both} .r3{animation:rise .9s .5s ease both}
+</style>
+<rect width="1200" height="300" fill="#f6f6f4"/>
+<g stroke="#d4d4d8" stroke-width="1" opacity=".55"><line x1="0" y1="0" x2="-60" y2="300" /><line x1="26" y1="0" x2="-34" y2="300" /><line x1="52" y1="0" x2="-8" y2="300" /><line x1="78" y1="0" x2="18" y2="300" /><line x1="104" y1="0" x2="44" y2="300" /><line x1="130" y1="0" x2="70" y2="300" /><line x1="156" y1="0" x2="96" y2="300" /><line x1="182" y1="0" x2="122" y2="300" /><line x1="208" y1="0" x2="148" y2="300" /><line x1="234" y1="0" x2="174" y2="300" /><line x1="260" y1="0" x2="200" y2="300" /><line x1="286" y1="0" x2="226" y2="300" /><line x1="312" y1="0" x2="252" y2="300" /><line x1="338" y1="0" x2="278" y2="300" /><line x1="364" y1="0" x2="304" y2="300" /><line x1="390" y1="0" x2="330" y2="300" /><line x1="416" y1="0" x2="356" y2="300" /><line x1="442" y1="0" x2="382" y2="300" /><line x1="468" y1="0" x2="408" y2="300" /><line x1="494" y1="0" x2="434" y2="300" /><line x1="520" y1="0" x2="460" y2="300" /><line x1="546" y1="0" x2="486" y2="300" /><line x1="572" y1="0" x2="512" y2="300" /><line x1="598" y1="0" x2="538" y2="300" /><line x1="624" y1="0" x2="564" y2="300" /><line x1="650" y1="0" x2="590" y2="300" /><line x1="676" y1="0" x2="616" y2="300" /><line x1="702" y1="0" x2="642" y2="300" /><line x1="728" y1="0" x2="668" y2="300" /><line x1="754" y1="0" x2="694" y2="300" /><line x1="780" y1="0" x2="720" y2="300" /><line x1="806" y1="0" x2="746" y2="300" /><line x1="832" y1="0" x2="772" y2="300" /><line x1="858" y1="0" x2="798" y2="300" /><line x1="884" y1="0" x2="824" y2="300" /><line x1="910" y1="0" x2="850" y2="300" /><line x1="936" y1="0" x2="876" y2="300" /><line x1="962" y1="0" x2="902" y2="300" /><line x1="988" y1="0" x2="928" y2="300" /><line x1="1014" y1="0" x2="954" y2="300" /><line x1="1040" y1="0" x2="980" y2="300" /><line x1="1066" y1="0" x2="1006" y2="300" /><line x1="1092" y1="0" x2="1032" y2="300" /><line x1="1118" y1="0" x2="1058" y2="300" /><line x1="1144" y1="0" x2="1084" y2="300" /><line x1="1170" y1="0" x2="1110" y2="300" /><line x1="1196" y1="0" x2="1136" y2="300" /><line x1="1222" y1="0" x2="1162" y2="300" /><line x1="1248" y1="0" x2="1188" y2="300" /><line x1="1274" y1="0" x2="1214" y2="300" /></g>
+<rect x=".5" y=".5" width="1199" height="299" fill="none" stroke="#d4d4d8"/>
+<g stroke="#3a3a42" fill="none">
+  <g class="o1"><ellipse cx="960" cy="150" rx="150" ry="52" transform="rotate(-28 960 150)" stroke-width="2.4"/><circle cx="1103" cy="106" r="5" fill="#141416" stroke="none"/></g>
+  <g class="o2"><ellipse cx="960" cy="150" rx="150" ry="52" transform="rotate(34 960 150)" stroke-width="1.2"/><circle cx="1090" cy="224" r="4" fill="#5d5d66" stroke="none"/></g>
+  <g class="o3"><ellipse cx="960" cy="150" rx="150" ry="52" transform="rotate(97 960 150)" stroke-width="1" stroke-dasharray="4 6"/><circle cx="947" cy="2" r="3.5" fill="#141416" stroke="none"/></g>
+</g>
+<circle cx="960" cy="150" r="26" fill="#f6f6f4" stroke="#3a3a42" stroke-width="1.5"/>
+<text x="960" y="159" text-anchor="middle" class="t" font-size="24" font-weight="600" fill="#141416">Ag</text>
+<text x="946" y="138" class="m" font-size="9" fill="#5d5d66">47</text>
+<g class="r"><text x="64" y="64" class="m" font-size="14" fill="#5d5d66" letter-spacing="2">LIMA · 12.05° S</text></g>
+<g class="r2"><text x="60" y="150" class="t" font-size="76" font-weight="600" fill="#141416" letter-spacing="-2">Josh Lucem</text></g>
+<g class="r3"><text x="64" y="204" class="s" font-size="30" fill="#5d5d66">plugins for Minecraft, and a bit of law.</text></g>
+<text x="64" y="262" class="m" font-size="13" fill="#5d5d66">Java · Paper · Node.js</text>
+</svg>
